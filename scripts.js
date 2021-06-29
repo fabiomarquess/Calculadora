@@ -10,3 +10,4 @@ function equal(){
 function c(){
     document.form.textview.value = "";
 }
+

@@ -54,12 +54,25 @@ table{
     border-radius: 5px;
 }
 
-@media (max-width: 500px){
+@media (max-width: 1024px){
     #fundo{
         width: auto;
         height: auto;
         margin: auto;
         text-align: center;
-        margin-top: 65px;
+        margin-top: 60px;
+        background-color: green;
     }
 }
+
+@media (max-width: 380px){
+    #fundo{
+        width: auto;
+        height: auto;
+        margin: auto;
+        text-align: center;
+        margin-top: 45px;
+        background-color: pink;
+    }
+}
+
