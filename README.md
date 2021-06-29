@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora Online em fase de teste
+ Calculadora em fase de testes
