@@ -1,4 +1,5 @@
 # Projeto Calculadora Online 
 
- Uma calculadora online que está em fase de testes.
+ Uma calculadora online simples que pretendo estar sempre melhorando conforme o tempo vai passando
+ .
  
